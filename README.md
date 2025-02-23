@@ -5,17 +5,44 @@
 ## 🎯 Project Objectives
 The objective of this project is to analyze the performance and user behavior of LioCinema and Jotstar from January to November 2024 in preparation for their strategic merger. The analysis will focus on subscriber growth, content consumption patterns, inactivity behavior, and upgrade/downgrade trends. The insights will help optimize content strategies and position Lio-Jotstar as India's leading OTT platform post-merger.
 
-## 📊 Dataset Used
-- Link to the dataset: working...
+## 📊 Dataset Overview
 
-## The key areas of analysis include
+### 📌 LioCinema Dataset Overview  
+ 
+This dataset contains detailed records of **user content consumption, available content, and subscriber information** for LioCinema, one of India's leading OTT platforms. The data provides insights into **user engagement, content preferences, and subscription trends** over the past year.  
+
+
+## 📂 Dataset Summary  
+
+| **Table Name**          | **Description**                                      | **Total Records** |
+|-------------------------|------------------------------------------------------|-------------------|
+| `content_consumption`   | Tracks user interactions, including watch history, duration, and engagement patterns. | **430,752**       |
+| `contents`             | Contains metadata of all available content, including movies, series, and sports categories. | **1,250**         |
+| `subscribers`          | Stores user subscription details, including plan type, activity status, and demographics. | **183,446**       |
+
+
+### 📌 JotStar Dataset Overview  
+
+This dataset contains detailed records of **user content consumption, available content, and subscriber information** for **JotStar**, one of India's leading streaming platforms. The dataset provides insights into **user engagement, content trends, and subscription behavior** over the past year.  
+
+
+## 📂 Dataset Summary  
+
+| **Table Name**          | **Description**                                      | **Total Records** |
+|-------------------------|------------------------------------------------------|-------------------|
+| `content_consumption`   | Tracks user interactions, including watch history, duration, and engagement patterns. | **133,860**       |
+| `contents`             | Contains metadata of all available content, including movies, series, and sports categories. | **2,360**         |
+| `subscribers`          | Stores user subscription details, including plan type, activity status, and demographics. | **44,620**        |
+
+
+## 🔍 The Key Areas of Analysis Include
 
 1. **User Base & Engagement:** Total users, paid users, active/inactive users, and their respective percentages.
 2. **Subscription Trends:** Upgrade/downgrade trends, growth rates, and subscription behavior changes.
 3. **Content Consumption:** Total content items, total watch time, and average watch time.
 4. **Performance Indicators:** Monthly user growth rate and upgrade/downgrade rate trends.
 
-## User Engagement & Trends Dashboard: A KPI-Based Study of LioCinema & Jotstar
+## 📈 User Engagement & Trends Dashboard: A KPI-Based Study of LioCinema & Jotstar
 
 5. **Growth & Engagement:** Total growth trends, and active vs. inactive users by demographics.
 6. **Content Comparison:** Total content items, content type, and language distribution across platforms.
