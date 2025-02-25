@@ -1,9 +1,9 @@
 # OTT Platform Performance: A Data Analytics Perspective
 
-## Dashboard will be uploaded soon (Working...)
-
 ## 🎯 Project Objectives
 The objective of this project is to analyze the performance and user behavior of LioCinema and Jotstar from January to November 2024 in preparation for their strategic merger. The analysis will focus on subscriber growth, content consumption patterns, inactivity behavior, and upgrade/downgrade trends. The insights will help optimize content strategies and position Lio-Jotstar as India's leading OTT platform post-merger.
+
+![](https://github.com/ind-madhusudan/OTT_Data_Analysis_Project/blob/main/Dashboards/JotStar_Dashboard.png)
 
 ## 📊 Dataset Overview
 
@@ -49,7 +49,7 @@ This dataset contains detailed records of **user content consumption, available 
 7. **Watch Time & Inactivity:** Average watch time by city tier and device, correlation with inactivity.
 8. **Subscription Trends:** Upgrade/downgrade behavior, paid user distribution, and revenue estimation based on subscription plans.
 
-[Dashboard - Click Here]
+**Live Dashboard** ➡ [Click Here](https://app.powerbi.com/view?r=eyJrIjoiYWNmNTJlYjEtYmViZC00Y2ExLTg4N2MtOWM3ZjkyYTgzZTIwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ## Analysis of KPIs
 
@@ -64,6 +64,8 @@ This dataset contains detailed records of **user content consumption, available 
   - **LioCinema:** 44.87% inactive users, signaling retention and engagement challenges.
 - **Age Group Engagement:**
   - 18-24 age group dominates both platforms (38.5% of total users), making it the most valuable demographic for engagement and monetization.
+
+![](https://github.com/ind-madhusudan/OTT_Data_Analysis_Project/blob/main/Dashboards/Growth_Trends_DS.png)
 
 #### Areas for Improvement & Recommendations
 ✅ Improve LioCinema's engagement via personalized recommendations, loyalty rewards, or exclusive content.  
@@ -83,6 +85,8 @@ This dataset contains detailed records of **user content consumption, available 
 - **Subscription Behavior:**
   - JotStar has a strong premium user base, especially in Tier 1 and Tier 2 cities.
   - LioCinema relies heavily on basic plan users, with premium adoption struggling, particularly in Tier 3 cities.
+ 
+ ![](https://github.com/ind-madhusudan/OTT_Data_Analysis_Project/blob/main/Dashboards/Subscription_Trends.png)
 
 #### Areas for Improvement & Recommendations
 ✅ Retention Strategies for LioCinema: Address the high downgrade rate by offering loyalty perks, exclusive content, or limited-time discounts for premium users.  
@@ -107,6 +111,8 @@ This dataset contains detailed records of **user content consumption, available 
   - Older demographics (45+) consume significantly less content.
   - Mobile devices account for the majority of watch time, followed by TV and laptops.
 
+ ![](https://github.com/ind-madhusudan/OTT_Data_Analysis_Project/blob/main/Dashboards/Content_Distribution.png)
+
 #### Areas for Improvement & Recommendations
 ✅ Enhance Content Variety: JotStar should increase its content library, particularly in sports and series, to compete with LioCinema’s dominance.  
 ✅ Boost Engagement for 45+ Demographics: Introduce targeted content for older users (e.g., classic movies, documentaries) and simplify navigation for smart TVs.  
@@ -126,6 +132,8 @@ This dataset contains detailed records of **user content consumption, available 
 - **Upgrade/Downgrade Rate Trends:**
   - LioCinema sees high downgrade rates, affecting overall revenue stability.
   - JotStar maintains a stable upgrade rate, though growth potential remains limited.
+
+ ![](https://github.com/ind-madhusudan/OTT_Data_Analysis_Project/blob/main/Dashboards/Growth_Trends.png)
 
 #### Areas for Improvement & Recommendations
 ✅ Improve Retention with Targeted Campaigns: Focus on engaging users during slow-growth months with special content releases.  
